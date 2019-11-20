@@ -1,0 +1,9 @@
+django >= 2.1.6, < 3.0
+djangorestframework
+markdown
+django-filter
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
